@@ -1,0 +1,13 @@
+# API keys and secrets
+.env
+src/key.js
+
+# Dependency directory
+node_modules
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+build/**/*
